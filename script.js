@@ -38,3 +38,4 @@ const addTask = (event) => {
 };
 
 addTaskBtn.addEventListener("click", addTask);
+
