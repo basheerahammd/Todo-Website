@@ -48,7 +48,7 @@ todo-app h1 {
 }
 .input-area input{
     flex: 1;
-    padding: 10px 17px;
+    padding: 5px 17px;
     font-size: 1.1rem;
     border: none;
     outline: none;
@@ -160,5 +160,6 @@ todo-app h1 {
   transform: rotate(45deg);
   z-index: 1;   /* ensures tick is above the background */
 }
+
 
 
